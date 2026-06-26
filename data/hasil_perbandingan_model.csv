@@ -1,0 +1,4 @@
+Model,RMSE,MAE
+Collaborative Filtering (KNN),0.9355,0.7251
+Content-Based Filtering (Word2Vec),0.9953,0.745
+Hybrid,0.9304,0.7213
